@@ -1,2 +1,3 @@
-deployment 
-java.sh
+deployment of
+java applications
+web applications
